@@ -1,1 +1,1 @@
-print("Goodbye, Boomba(")
+print("Goodbye, Boomba:(")
