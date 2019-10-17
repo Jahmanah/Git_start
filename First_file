@@ -1,1 +1,3 @@
 print("Hello, Boobma!")
+a = int(input("Введите значение": ))
+print(f"Вы ввели {a}")
